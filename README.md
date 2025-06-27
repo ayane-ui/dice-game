@@ -1,4 +1,3 @@
-# dice-game
 import random
 
 def dice_game():
